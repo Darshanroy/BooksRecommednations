@@ -1,5 +1,7 @@
+Flask
 flask
 transformers
 pandas
 numpy
 scikit-learn
+gunicorn
